@@ -1,7 +1,7 @@
 ### Way Di Vybz? 👋👋
 
 - 🔭 I’m currently working on me and some projects
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning (poorly) node.js
 - 👯 I’m looking to collaborate on anything interesting to me
 - 🤔 I’m looking for help with anything you find interesting here
 - 💬 Ask me about: NOTHING, do I look like Wikipedia?

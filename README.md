@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning (poorly) node.js
 - 👯 I’m looking to collaborate on anything interesting to me
 - 🤔 I’m looking for help with anything you find interesting here
-- 💬 Ask me about: NOTHING, do I look like Wikipedia?
+- 💬 Ask me about: NOTHING, do I look like Wikipedia? Okay you can ask me about Cyber Security and Cloud :)
 - 📫 How to reach me: gyarbij@pm.me
-- ⚡ Fun fact: People Suck
+- ⚡ Fun fact: Everyday Nuh Sunday
 
 <!--
 **Gyarbij/Gyarbij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
